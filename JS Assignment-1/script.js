@@ -143,6 +143,14 @@ document.getElementById("Divide2Numbers").onclick = function () {
 
 }
 
+document.getElementById("CalculateSomeNumbers").onclick = function () {
+    
+
+
+
+
+
+}
 
 
 
